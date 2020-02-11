@@ -1,4 +1,4 @@
-Percorrendo um arquivo .txt em javascript e alterando algumas palavras.
+<h2> Percorrendo um arquivo .txt em javascript e alterando algumas palavras. </h2>
 
 Por exemplo:
 
